@@ -1,6 +1,6 @@
 ## Hi, I'm Hosea Felix Sanjaya
 
-🧠 Informatics Engineering at ITS University<be/>
+🧠 Informatics Engineering at ITS University<br/>
 🎥 I share my activity on [Instagram](https://www.instagram.com/hoseafelix_/)
 
 
