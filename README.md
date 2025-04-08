@@ -1,22 +1,22 @@
 ## Hi, I'm Hosea Felix Sanjaya
 
 🔭 I’m currently studying on<br>
-#### Institute of Technology Sepuluh Nopember.<br><br>
+Institute of Technology Sepuluh Nopember.<br><br>
 
 🤝 I’m looking to collaborate on<br>
-##### Startup ideas, UI/UX design projects, or anything at the intersection of tech and business.<br><br>
+Startup ideas, `UI/UX` design projects, or anything at the intersection of tech and business.<br><br>
 
 🧠 I’m looking for help with<br>
-Growing as a technopreneur and improving my product-market fit strategies.<br><br>
+Growing as a `technopreneur` and improving my product-market fit strategies.<br><br>
 
 🌱 I’m currently learning<br>
-Advanced Next.js, design systems, and entrepreneurship.<br><br>
+Advanced `Next.js`, design systems, and entrepreneurship.<br><br>
 
 💬 Ask me about<br>
-Frontend development, Figma tricks, or how I blend design and business thinking.<br><br>
+Frontend development, `Figma` tricks, or how I blend design and business thinking.<br><br>
 
 ⚡ Fun fact<br>
-I once imagined a business that combined dimsum with ice cream. It’s called Discream! 🍦🥟
+I once imagined a business that combined dimsum with ice cream. It’s called `Discream`! 🍦🥟
 
 
 ## 🌐 Socials:
