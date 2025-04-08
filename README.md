@@ -1,10 +1,10 @@
 ## Hi, I'm Hosea Felix Sanjaya
 
 🔭 I’m currently studying on<br>
-### Institute of Technology Sepuluh Nopember.<br><br>
+#### Institute of Technology Sepuluh Nopember.<br><br>
 
 🤝 I’m looking to collaborate on<br>
-Startup ideas, UI/UX design projects, or anything at the intersection of tech and business.<br><br>
+##### Startup ideas, UI/UX design projects, or anything at the intersection of tech and business.<br><br>
 
 🧠 I’m looking for help with<br>
 Growing as a technopreneur and improving my product-market fit strategies.<br><br>
