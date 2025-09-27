@@ -1,4 +1,4 @@
-## Hi there, I'm Hosea Felix Sanjaya
+## Hi there, I'm Felix..
 - I'm still normal.
 
 
