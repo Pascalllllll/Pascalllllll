@@ -1,16 +1,10 @@
 ## Hello there, I'm Hosea
-- I'm still normal.
-
-
 
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Pascalllllll&theme=one_dark_pro&hide_border=true&include_all_commits=falsecount_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Pascalllllll&theme=one_dark_pro&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pascalllllll&theme=one_dark_pro&hide_border=true&include_all_commits+=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pascalllllll&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Pascalllllll&icon=0&color=0)](https://visitcount.itsvg.in)
