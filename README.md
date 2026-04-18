@@ -2,7 +2,7 @@
 
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Pascalllllll&theme=one_dark_pro&hide_border=true&include_all_commits=falsecount_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Pascalllllll&theme=one_dark_pro&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pascalllllll&theme=one_dark_pro&hide_border=true&include_all_commits+=false&count_private=false&layout=compact)
 
